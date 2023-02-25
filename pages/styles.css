@@ -1,0 +1,114 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #07143fea;
+    font-family: consolas;
+}
+
+.container {
+    background-color: rgba(169, 211, 248, 0.801);
+    margin: auto;
+    width: 80%;
+    height: 100%;
+    border-radius: 2%;
+    flex-direction: column;
+}
+
+
+h1 {
+    color: #07143f;
+    margin: 25px;
+    text-align: center;
+}
+h2 {
+    color: #07143f;
+}
+
+article {
+    margin-inline: 25px;
+}
+
+.backg1 {
+    width: 320px;
+    height: 220px;
+    margin: auto;
+    border-radius: 2%;
+    cursor: pointer;
+    box-sizing: border-box;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.8);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-image: url('https://www.allrecipes.com/thmb/9FdDSZuAA6zKPLr3yBj5n0xE3gk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/255021-Creamy-Bay-Scallop-Spaghetti-ddmfs-3X4-5110-4d53f3cb66424bcba3e68ac09b4c7d1f.jpg');
+}
+
+.backg2 {
+    width: 320px;
+    height: 220px;
+    margin: auto;
+    border-radius: 2%;
+    cursor: pointer;
+    box-sizing: border-box;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.8);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-image: url('https://www.allrecipes.com/thmb/TY4Ik6umG0vNC1qs1pfvwjB8Wto=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4470536-chef-johns-fresh-salmon-cakes-Chef-John-1x1-1-217fa762bb5c4d098ee1cb0044994758.jpg');
+}
+
+.backg3 {
+    width: 320px;
+    height: 220px;
+    margin: auto;
+    border-radius: 2%;
+    cursor: pointer;
+    box-sizing: border-box;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.8);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-image: url('https://www.allrecipes.com/thmb/UvZdRZZV97zDFAaNtq3I70dmdeY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/21176-baked-dijon-salmon-mfs-1-fd980409247d464a95ac9dcb259ae290.jpg');
+}
+
+.backg4 {
+    width: 320px;
+    height: 220px;
+    margin: auto;
+    border-radius: 2%;
+    cursor: pointer;
+    box-sizing: border-box;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.8);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-image: url('https://www.allrecipes.com/thmb/30CeQPyzOkrzTRUYXewAtPZSeaU=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/8229093-e32de790d29340a797b9e2c801181db5.jpg');
+}
+
+.backg5 {
+    width: 320px;
+    height: 220px;
+    margin: auto;
+    border-radius: 2%;
+    cursor: pointer;
+    box-sizing: border-box;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.8);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-image: url('https://www.allrecipes.com/thmb/5NvSm5p39QCcds0CtPTI6NfB3tE=/1000x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2319909-the-best-thai-coconut-soup-Aja-1x1-1-d2385a72da884e75a7364d6ecca5680e.jpg');
+}
+
+.backg6 {
+    width: 320px;
+    height: 220px;
+    margin: auto;
+    border-radius: 2%;
+    cursor: pointer;
+    box-sizing: border-box;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.8);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-image: url('https://www.allrecipes.com/thmb/P7eRw4ZL8eiX2EEB7bEPfCYEi8U=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/16468-tuna-fish-salad-DDMFS-beauty-4x3-BG-2952-2cf0f9bf122c4496b3ae9bb0147fb6d5.jpg');
+}
+
